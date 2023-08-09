@@ -7,4 +7,6 @@ Some popular options include MySQL, PostgreSQL, SQLite, or Microsoft SQL Server.
 ## Database and Tools
 * MYSQL
 * Excell
- ![Schema Image](Music_Store_Project/MusicDatabaseSchema.png)
+
+  
+ ![Schema Image](https://github.com/abubakrsiddiquee/PortfolioProjects/blob/main/Music_Store_Project/MusicDatabaseSchema.png)
