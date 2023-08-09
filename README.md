@@ -21,6 +21,6 @@ I welcome contributions, suggestions, and feedback! If you have ideas for improv
 
 ## Contact
 
-You can reach me at [abubakrsidd394@@gmail.com](mailto:your.email@example.com) for any inquiries, collaborations, or questions related to the projects.
+You can reach me at [abubakrsidd394@gmail.com](mailto:your.email@example.com) for any inquiries, collaborations, or questions related to the projects.
 
 Thank you for visiting my Data Analysis Portfolio repository. I hope you find the projects interesting and informative!
