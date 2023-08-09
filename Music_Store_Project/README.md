@@ -1,12 +1,10 @@
 # SQL_Project_Music_Store_Analysis
-SQL project to analyze online Music Store data
+This repository contains SQL queries and scripts for analyzing a music store database. The database includes information about various aspects of the music store, such as customers, employees, products, orders, and transactions. This set of SQL queries and scripts aims to provide insights into different aspects of the music store's operations and performance.
 
-To use this SQL Music Analysis file, you will need to have a compatible SQL server installed and running.
-Some popular options include MySQL, PostgreSQL, SQLite, or Microsoft SQL Server. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
 ## Database and Tools
 * MYSQL
 * Excell
 
   
- ![Schema Image](https://github.com/abubakrsiddiquee/PortfolioProjects/blob/main/Music_Store_Project/MusicDatabaseSchema.png)
+      ![Schema Image](https://github.com/abubakrsiddiquee/PortfolioProjects/blob/main/Music_Store_Project/MusicDatabaseSchema.png)
