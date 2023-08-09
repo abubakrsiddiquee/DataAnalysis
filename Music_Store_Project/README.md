@@ -6,5 +6,5 @@ This repository contains SQL queries and scripts for analyzing a music store dat
 * MYSQL
 * Excell
 
-  
-      ![Schema Image](https://github.com/abubakrsiddiquee/PortfolioProjects/blob/main/Music_Store_Project/MusicDatabaseSchema.png)
+
+  ![Schema Image](https://github.com/abubakrsiddiquee/PortfolioProjects/blob/main/Music_Store_Project/MusicDatabaseSchema.png)
