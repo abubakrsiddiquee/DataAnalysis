@@ -1,1 +1,1 @@
-me
+![dashboard](sales_dashboard.png)
