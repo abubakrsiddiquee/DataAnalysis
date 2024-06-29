@@ -37,4 +37,4 @@ If you would like to contribute to this project, please follow these steps:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a Pull Request.
 
- ![dashboard](1.png)
+ ![dashboard](Dashboard.PNG)
